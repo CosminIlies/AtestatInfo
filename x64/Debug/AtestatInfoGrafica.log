@@ -1,0 +1,32 @@
+﻿  Game.cpp
+D:\Projects\C++\AtestatInfoGrafica\Game.cpp(26,34): warning C4305: '=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+D:\Projects\C++\AtestatInfoGrafica\Game.cpp(87,17): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Projects\C++\AtestatInfoGrafica\Game.cpp(88,17): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Projects\C++\AtestatInfoGrafica\Game.cpp(90,46): warning C4244: '-=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Projects\C++\AtestatInfoGrafica\Game.cpp(91,46): warning C4244: '-=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Projects\C++\AtestatInfoGrafica\Game.cpp(107,33): warning C4305: '-=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+  AtestatInfoGrafica.vcxproj -> D:\Projects\C++\AtestatInfoGrafica\x64\Debug\AtestatInfoGrafica.exe

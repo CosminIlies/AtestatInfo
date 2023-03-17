@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\minwindef.h(130,1): warning C4005: 'APIENTRY': macro redefinition
+D:\Projects\C++\AtestatInfoGrafica\include\GLFW\glfw3.h(123): message : see previous definition of 'APIENTRY'
+D:\Projects\C++\AtestatInfoGrafica\main.cpp(15,52): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Projects\C++\AtestatInfoGrafica\main.cpp(16,49): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+  AtestatInfoGrafica.vcxproj -> D:\Projects\C++\AtestatInfoGrafica\Debug\AtestatInfoGrafica.exe
